@@ -1,6 +1,6 @@
 # Introduction
 
-Welcome to the official documentation for the **Wix Automations solution for notifications sent from Wix**.  
+Welcome to the documentation for the **Wix Automations solution for notifications sent from Wix**.  
 This guide is designed for Wix employees and provides a comprehensive overview of creating official notifications where Wix is both the sender and the brand.
 
 The system streamlines automated email workflows, enhancing efficiency and ensuring consistent branding across all teams.

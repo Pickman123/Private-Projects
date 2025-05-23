@@ -29,7 +29,7 @@
 ## 3. Event Identification  
 **Owner:** Developer
 
-- Determine if an existing Kafka event provides all the data required to trigger the automation.
+- Determine if an existing event provides all the data required to trigger the automation.
 - If such an event exists, leverage it to streamline the implementation.
 
 ---

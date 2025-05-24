@@ -58,14 +58,15 @@ Account-level triggers can be implemented using one of the following methods:
 ---
 
 ## 4. Create Preinstalled Automation Component
-Create the automation—define its logic, triggers, conditions, and email notifications—and configure the accompanying pre-installed component.
+Create the automation - define its logic, triggers, conditions, and notifications, and configure the accompanying pre-installed component.
   
   *Notes:*
 - Install the pre-installed component (with the app) only on production and test sites to ensure a controlled, correct rollout.
 
-**Implementation Details**
-For complete instructions, see the full guide: [Account-Level Pre-Installed Automation Implementation Details](https://github.com/Pickman123/Private-Projects/blob/main/Wix%20Official%20Notifications%20(internal%20docs)/Account-Level%20Automation%20Implementation/Preinstalleds/PreInstalled%20Automation.md)
-
+<a href="https://github.com/Pickman123/Private-Projects/blob/main/Wix%20Official%20Notifications%20(internal%20docs)/Account-Level%20Automation%20Implementation/Preinstalleds/PreInstalled%20Automation.md"
+   style="display:inline-block;padding:8px 16px;background:#0063d1;color:#ffffff;font-weight:600;text-decoration:none;border-radius:4px;">
+  Create Pre-Installed Automation
+</a>
 
 ## 4. Test preinstalled in the dedicated site
 

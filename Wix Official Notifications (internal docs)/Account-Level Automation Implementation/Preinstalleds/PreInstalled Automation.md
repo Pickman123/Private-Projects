@@ -1,4 +1,4 @@
-# 4. Create Preinstalled Automation Component (account level)
+# Create Preinstalled Automation Component (account level)
 
 ## Introduction
 

@@ -110,7 +110,7 @@ Your event will appear in Dev Center as a "not publish" trigger, ready for confi
 
 Auto-converted triggers are based on your proto file, but some aspects can be managed directly in Dev Center.
 
-**overview**
+**overview**:
 *The trigger schema’s structure and field order are fixed by your proto definition: in the Dev Center you can’t add, remove, or rename fields—you can only annotate them.* 
 
 ### Proto-Based Annotations

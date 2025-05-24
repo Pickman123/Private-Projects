@@ -1,4 +1,4 @@
-# Auto-Converted Triggers from Events (Internal)
+# Auto-Converted Triggers From Events (Account level)
 
 Auto-converted triggers provide a streamlined and efficient way to create and manage automation triggers in Wix, leveraging existing events defined in your app.
 

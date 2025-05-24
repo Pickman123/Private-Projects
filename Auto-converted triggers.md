@@ -141,3 +141,11 @@ Auto-converted triggers are based on your proto file, but some aspects can be ma
 **After completing these steps, your trigger will be in draft mode and ready for testing.**
 
 ![Draft trigger ready](https://github.com/Pickman123/Private-Projects/blob/main/Draft%20Trigger%20created%20and%20ready%20for%20testing.png?raw=true)
+
+---
+
+<div align="right">
+
+➡️ [Continue to: Test Your Trigger →](./TEST_YOUR_TRIGGER.md)
+
+</div>

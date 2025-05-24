@@ -28,7 +28,7 @@ Account-level triggers can be implemented using one of the following methods:
   <p align="center">
   <a href=./Triggers/Auto-Converted%20Triggers%20From%20Events%20(Account%20level).md
      style="display:inline-block;padding:8px 16px;background:#0063d1;color:#ffffff;font-weight:600;text-decoration:none;border-radius:4px;">
-    👉 Auto-Converted&nbsp;Triggers&nbsp;From&nbsp;Events
+    ➡️ Auto-Converted&nbsp;Triggers&nbsp;From&nbsp;Events
   </a>
 </p>  
 
@@ -38,7 +38,7 @@ Account-level triggers can be implemented using one of the following methods:
   <p align="center">
   <a href=./Triggers/Creating%20Trigger%20From%20Quix%20Job.md
      style="display:inline-block;padding:8px 16px;background:#0063d1;color:#ffffff;font-weight:600;text-decoration:none;border-radius:4px;">
-    👉 Creating&nbsp;Trigger&nbsp;From&nbsp;Quix&nbsp;Job
+    ➡️ Creating&nbsp;Trigger&nbsp;From&nbsp;Quix&nbsp;Job
   </a>
 </p>  
 
@@ -52,7 +52,7 @@ Account-level triggers can be implemented using one of the following methods:
 <p align="center">
   <a href=https://github.com/Pickman123/Private-Projects/blob/main/Wix%20Official%20Notifications%20(internal%20docs)/Account-Level%20Automation%20Implementation/Triggers/Test%20Trigger.md
      style="display:inline-block;padding:8px 16px;background:#0063d1;color:#ffffff;font-weight:600;text-decoration:none;border-radius:4px;">
-    👉 Test&nbsp;Trigger&nbsp;Guide
+    ➡️ Test&nbsp;Trigger&nbsp;Guide
   </a>
 </p>
 
@@ -65,7 +65,7 @@ Install the pre-installed component (with the app) only on production and test s
 <p align="center">
   <a href="https://github.com/Pickman123/Private-Projects/blob/main/Wix%20Official%20Notifications%20(internal%20docs)/Account-Level%20Automation%20Implementation/Preinstalleds/PreInstalled%20Account%20Level%20Automation.md"
      style="display:inline-block;padding:8px 16px;background:#0063d1;color:#ffffff;font-weight:600;text-decoration:none;border-radius:4px;">
-    👉 Create&nbsp;Pre-Installed&nbsp;Automation
+    ➡️ Create&nbsp;Pre-Installed&nbsp;Automation
   </a>
 </p>
 
@@ -79,7 +79,7 @@ Install the pre-installed component (with the app) only on production and test s
   <p align="center">
   <a href=https://github.com/Pickman123/Private-Projects/blob/main/Wix%20Official%20Notifications%20(internal%20docs)/Account-Level%20Automation%20Implementation/Triggers/Test%20Trigger.md
      style="display:inline-block;padding:8px 16px;background:#0063d1;color:#ffffff;font-weight:600;text-decoration:none;border-radius:4px;">
-    👉 Test&nbsp;preinstalled&nbsp;Automation&nbsp;Guide
+    ➡️ Test&nbsp;preinstalled&nbsp;Automation&nbsp;Guide
   </a>
 </p>  
 

@@ -15,7 +15,7 @@ This process applies equally to both site-level and account-level automations.
 
 ## Step-by-Step Configuration
 
-### 1. Start with Preinstalled Automation Component Guide - [link here](https://github.com/Pickman123/Private-Projects/blob/main/documentations/Account-Level%20Preinstalled%20Automation%20Component%20implementations%20guide.md#preinstalled-automation-component-implemetations-guide-account-level)
+### 1. Start with Preinstalled Automation Component Guide - [link here](https://github.com/Pickman123/Private-Projects/blob/main/Wix%20Official%20Notifications%20(internal%20docs)/Account-Level%20Automation%20Implementation/Preinstalleds/PreInstalled%20Automation.md)
 
 Before configuring emails, you should start creating an automation ensure you have followed the guide for creating preinstalled automation components.
 
@@ -176,6 +176,6 @@ _Image: Step completion for Studio/Classic_
 
 ## Next Steps
 
-Continue to the [Preinstalled Automation Component creation guide](https://github.com/Pickman123/Private-Projects/blob/main/documentations/Account-Level%20Preinstalled%20Automation%20Component%20implementations%20guide.md#preinstalled-automation-component-implemetations-guide-account-level) to complete setup.
+Continue to the [Preinstalled Automation Component creation guide](https://github.com/Pickman123/Private-Projects/blob/main/Wix%20Official%20Notifications%20(internal%20docs)/Account-Level%20Automation%20Implementation/Preinstalleds/PreInstalled%20Automation.md) to complete setup.
 
 ---

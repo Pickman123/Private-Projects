@@ -49,8 +49,23 @@ This is the core automation configuration that defines the logic, structure, and
 
 ### 1.2 Set the automation notification.
 
-   - [Emails setup guide →](https://github.com/Pickman123/Private-Projects/blob/main/Wix%20Official%20Notifications%20(internal%20docs)/Account-Level%20Automation%20Implementation/Preinstalleds/Official%20Wix%20Emails%20-%20Action%20Configuration%20Guide.md)  
-   - [Push notifications guide →](#)
+  <p align="left">
+  <a href=https://github.com/Pickman123/Private-Projects/blob/main/Wix%20Official%20Notifications%20(internal%20docs)/Account-Level%20Automation%20Implementation/Preinstalleds/Official%20Wix%20Emails%20-%20Action%20Configuration%20Guide.md
+     style="display:inline-block;padding:8px 16px;background:#0063d1;color:#ffffff;font-weight:600;text-decoration:none;border-radius:4px;">
+    ➡️ Emails&nbsp;setup&nbsp;guide
+  </a>
+</p>
+
+--- 
+
+ <p align="left">
+  <a href=#
+     style="display:inline-block;padding:8px 16px;background:#0063d1;color:#ffffff;font-weight:600;text-decoration:none;border-radius:4px;">
+    ➡️ Push&nbsp;notifications&nbsp;guide
+  </a>
+</p>  
+
+--- 
 
 ### 1.3 Activate the automation in the builder.
 
@@ -61,7 +76,7 @@ This is the core automation configuration that defines the logic, structure, and
 ## 2. Set Up the Rollout Spec
 
 - Generate a spec (feature toggle) with your scope in [Guinipig →](https://wix-bo.com/dev/feature-toggle?viewId=views).
-- Set it TRUE for the dedicated test site: **msid:** `eb2f2d49-b70f-4b9d-9055-4cc9793aca5e`  
+- Set it to true for the dedicated test site (**msid:** `eb2f2d49-b70f-4b9d-9055-4cc9793aca5e`)  
   This will control rollout and prevent the component from being downloaded on the production site if the app is already installed.
 
 ---

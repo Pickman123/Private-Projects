@@ -8,14 +8,17 @@ This guide walks you through implementing account-level automations, including t
 
 **Account-level automations** are used for sending notifications to users, regardless of individual site context. for more information about account level automations read the [Introduction](https://github.com/Pickman123/Private-Projects/blob/main/Wix%20Official%20Notifications%20(internal%20docs)/Introduction%20to%20Wix%20Official%20Notifications.md)
 
-this docs include the 4 steps you should do in order to create account level automation
+this docs include the steps you should do in order to create account level automation
 
 1. Create an Automation Trigger
-2. 
+2. Test trigger
+3. Create Preinstalled Automation
+4. Test preinstalled Automation
+5. Rollout
 
 ---
 
-## 1. Create an Automation Trigger
+## 1. Create Automation Trigger
 
 Account-level triggers can be implemented using one of the following methods:
 
@@ -29,7 +32,7 @@ Account-level triggers can be implemented using one of the following methods:
 
 ---
 
-## 2.Create automation trigger
+## 2.Test trigger
 
 - Thoroughly test account-level triggers to ensure your automation works end-to-end before release.
 - Ensure the relevant feature toggle (`ft-...`, provided separately) is enabled for test environment.  
@@ -62,7 +65,7 @@ Account-level triggers can be implemented using one of the following methods:
 
 ---
 
-## 3. Create Preinstalled Automation Component
+## 3. Create Preinstalled Automation
 Create the automation - define its logic, triggers, conditions, and notifications, and configure the accompanying pre-installed component.
 Install the pre-installed component (with the app) only on production and test sites to ensure a controlled, correct rollout.
 <p>
@@ -72,7 +75,7 @@ Install the pre-installed component (with the app) only on production and test s
   </a>
 </p>
 
-## 4 Test the preinstalled Automation in the dedicated site
+## 4 Test preinstalled Automation
 
 Thoroughly test the preinstalled component to ensure your automation works end-to-end before release.
 Ensure the relevant feature toggle (`ft-...`, provided separately) is enabled for test environment.   

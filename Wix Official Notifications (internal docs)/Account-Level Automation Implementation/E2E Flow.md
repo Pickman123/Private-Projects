@@ -6,7 +6,7 @@ This guide walks you through implementing account-level automations, including t
 
 ## 1. Overview
 
-**Account-level automations** are used for sending notifications to users or accounts, regardless of individual site context. for more information read the [Introduction](https://github.com/Pickman123/Private-Projects/blob/main/Wix%20Official%20Notifications%20(internal%20docs)/Introduction%20to%20Wix%20Official%20Notifications.md)
+**Account-level automations** are used for sending notifications to users, regardless of individual site context. for more information read the [Introduction](https://github.com/Pickman123/Private-Projects/blob/main/Wix%20Official%20Notifications%20(internal%20docs)/Introduction%20to%20Wix%20Official%20Notifications.md)
 
 ---
 

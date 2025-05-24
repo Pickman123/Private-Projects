@@ -116,6 +116,8 @@ Find your preinstalled automation under "installed for you" tab in the table
 - Publish your dev center app
 - (identity team missing info about gradual rollout)
 
+---
+
 <p align="center">
   <b>✨ You did it! Time to automate and celebrate! ✨</b>
 </p>

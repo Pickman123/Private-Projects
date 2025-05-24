@@ -5,7 +5,6 @@
 - This guide explains how to configure and customize email notifications using the "Send an Email" action, sent from Wix as the sender and brand (official emails), as part of the preinsatlled automation component creation.
 
 - Official Wix emails require specific configuration to ensure accurate targeting and reliable delivery.  
-This process applies equally to both site-level and account-level automations.
 
 ---
 

@@ -6,7 +6,7 @@ This guide walks you through implementing account-level automations, including t
 
 ## 1. Overview
 
-**Account-level automations** are used for sending notifications to users or accounts, regardless of individual site context. This approach is ideal for cross-site operations, user-wide campaigns, or workspace notifications.
+**Account-level automations** are used for sending notifications to users or accounts, regardless of individual site context.
 
 ---
 
@@ -46,17 +46,18 @@ Thoroughly test account-level triggers to ensure your automation works end-to-en
 ### Step 3: Manually Run the Trigger
 
 - **For Auto-Converted Triggers:**  
-  Ensure the relevant feature flag (`ft-...`, provided separately) is enabled for your account or test environment.  
-  > The feature flag must be ON to run the automation.
+  Ensure the relevant feature toggle (`ft-...`, provided separately) is enabled for your account or test environment.  
+  > The feature toggle must be ON to run the automation.
 - **For Quix-Based Triggers:**  
   In the Quix Job configuration, select the "testing" configuration for your automation action.
 
 ---
 
-## 4. Next Steps
+### Step 4: Review and Debug Automation Results
 
-- Review the automation results in the test environment.
-- Adjust your payload schema, trigger configuration, or automation actions as needed.
+- Monitor the automation execution results on the test site.
+- Check that notifications are sent to the correct adresses and that the payload data is accurate.
+- If the automation fails or produces unexpected results, revisit your trigger schema, make sure the FT is indeed ON, or Quix job setup and test again.
 - When satisfied, publish the trigger.
 
   ![Publish Trigger Example](https://github.com/Pickman123/Private-Projects/blob/main/docs%20images/Publish%20account%20level%20emails.png?raw=true)

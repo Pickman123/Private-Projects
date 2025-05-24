@@ -22,7 +22,7 @@ This is the core automation configuration that defines the logic, structure, and
 
    _image: automations Dev Center page_
 
-2. Click on **Create New Preinstalled Components**, and select your dedicated site where you manage your base automations in order to create a new one.
+2. Click on Create New Preinstalled Components, and select your dedicated site where you manage your base automations in order to create a new one.
    
    *Note: Look for your team site here: [Team Sites List](https://docs.google.com/spreadsheets/d/1nlqcgy7C_8N5t0FsUWgLDB3nfQhNZbV-YSw4IZ9zr7U/edit?gid=0#gid=0).  
    If you don't have one, reach out in #automation platform.*
@@ -47,12 +47,12 @@ This is the core automation configuration that defines the logic, structure, and
 
    Any other functionality or logic can be implemented in this part according to your needs.
 
-6. Set the automation notification.
+### 1.2 Set the automation notification.
 
    - [Emails setup guide →](https://github.com/Pickman123/Private-Projects/blob/main/Wix%20Official%20Notifications%20(internal%20docs)/Account-Level%20Automation%20Implementation/Preinstalleds/Official%20Wix%20Emails%20-%20Action%20Configuration%20Guide.md)  
    - [Push notifications guide →](#)
 
-7. Activate the automation in the builder.
+### 1.3 Activate the automation in the builder.
 
    _image: activation_
 

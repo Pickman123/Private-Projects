@@ -28,7 +28,7 @@ Account-level triggers can be implemented using one of the following methods:
   <p align="left">
   <a href=./Triggers/Auto-Converted%20Triggers%20From%20Events%20(Account%20level).md
      style="display:inline-block;padding:8px 16px;background:#0063d1;color:#ffffff;font-weight:600;text-decoration:none;border-radius:4px;">
-    ➡️ Auto-Converted&nbsp;Triggers&nbsp;From&nbsp;Events
+    ➡️ Auto-Converted&nbsp;Trigger&nbsp;From&nbsp;Event
   </a>
 </p>  
 

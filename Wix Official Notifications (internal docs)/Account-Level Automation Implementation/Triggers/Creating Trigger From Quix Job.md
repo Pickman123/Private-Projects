@@ -9,7 +9,7 @@ Automations can be initiated directly from Quix jobs. These triggers can operate
 A trigger from a Quix job allows you to run an automation action for every row in your Quix job's output.
 
 - **Site-level triggers:** Target specific sites based on data in each row.
-- **Account-level triggers:** Target users, sending notifications across workspaces or to specific recipients.
+- **Account-level triggers:** Send on-demand notifications to any user.
 
 The implementation includes steps on both the **Dev Center** and **Quix** platforms.
 
@@ -17,7 +17,7 @@ The implementation includes steps on both the **Dev Center** and **Quix** platfo
 
 ## Dev Center Setup
 
-### 1. Define a Trigger Component
+### Define a Trigger Component
 
 In Dev Center, create a trigger component *from scratch* for your app.
 
@@ -32,7 +32,7 @@ In Dev Center, create a trigger component *from scratch* for your app.
 
 ## Quix Side Setup
 
-### 1. Job Definition
+### 1️⃣ Job Definition
 
 Design your Quix job to include all the data needed for your automation and notifications.
 
@@ -45,7 +45,7 @@ Design your Quix job to include all the data needed for your automation and noti
 - **Account-Level:**  
   - The job should include a `userId` or `email` column to identify the recipients.
 
-### 2. Connect the Job to Your Trigger
+### 2️⃣ Connect the Job to Your Trigger
 
 In the Quix Job UI, select:  
   - **Action → Automations → Site-level** *or* **Account-level**
@@ -56,7 +56,7 @@ In the Quix Job UI, select:
 
 ---
 
-## 3. Execution
+## 3️⃣ Execution
 
 - Run the job.
 - The automation will be triggered for *each row* in the job.
@@ -75,6 +75,6 @@ In the Quix Job UI, select:
 
 <div align="right">
 
-➡️ [Continue to: Test Your Trigger →](./TEST_YOUR_TRIGGER.md)
+➡️ [Continue to: Test Your Trigger →](https://github.com/Pickman123/Private-Projects/blob/main/Wix%20Official%20Notifications%20(internal%20docs)/Account-Level%20Automation%20Implementation/Triggers/Test%20Trigger.md)
 
 </div>

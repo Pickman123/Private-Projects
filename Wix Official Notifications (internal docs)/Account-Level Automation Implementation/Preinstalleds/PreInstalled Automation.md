@@ -1,6 +1,6 @@
 # Create Preinstalled Automation Component (account level)
 
-## Introduction
+## 🌟 Overview
 
 This guide covers the creation of the automation itself—including logic, triggers, conditions, and email notifications—as well as the setup of the pre-installed component.
 
@@ -8,7 +8,7 @@ For account-level automations, the pre-installed component (along with the app) 
 
 ---
 
-## 1. Create the Base Automation
+## 1️⃣ Create the Base Automation
 
 **What is base automation?**  
 This is the core automation configuration that defines the logic, structure, and messaging of the automation.  
@@ -73,7 +73,7 @@ This is the core automation configuration that defines the logic, structure, and
 
 ---
 
-## 2. Set Up the Rollout Spec
+## 2️⃣ Set Up the Rollout Spec
 
 - Generate a spec (feature toggle) with your scope in [Guinipig →](https://wix-bo.com/dev/feature-toggle?viewId=views).
 - Set it to true for the dedicated test site (**msid:** `eb2f2d49-b70f-4b9d-9055-4cc9793aca5e`)  
@@ -81,7 +81,7 @@ This is the core automation configuration that defines the logic, structure, and
 
 ---
 
-## 3. Export the Base Automation into the Preinstalled Automation Component
+## 3️⃣ Export the Base Automation into the Preinstalled Automation Component
 
 - Generate a link from the automation table.
 - The link includes a reference to the automation configuration and will be used to create or update the pre-installed component.
@@ -90,7 +90,7 @@ This is the core automation configuration that defines the logic, structure, and
 
 ---
 
-## 4. Complete the Pre-Installed Setup in Dev Center
+## 4️⃣ Complete the Pre-Installed Setup in Dev Center
 
 - Go to the Dev Center → Automations page → create new pre-installed.
 - Paste the exported link.
@@ -101,7 +101,7 @@ This is the core automation configuration that defines the logic, structure, and
 
 ---
 
-## 5. Save the Preinstalled Under Spec
+## 5️⃣ Save the Preinstalled Under Spec
 
   _image of spec modal_
 

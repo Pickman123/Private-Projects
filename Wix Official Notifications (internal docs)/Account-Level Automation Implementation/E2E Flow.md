@@ -49,7 +49,7 @@ Account-level triggers can be implemented using one of the following methods:
 - Thoroughly test account-level triggers to ensure your automation works end-to-end before release.
 - Ensure the relevant feature toggle (`ft-...`, provided separately) is enabled for test environment.
    
-<p align="center">
+<p align="left">
   <a href=https://github.com/Pickman123/Private-Projects/blob/main/Wix%20Official%20Notifications%20(internal%20docs)/Account-Level%20Automation%20Implementation/Triggers/Test%20Trigger.md
      style="display:inline-block;padding:8px 16px;background:#0063d1;color:#ffffff;font-weight:600;text-decoration:none;border-radius:4px;">
     ➡️ Test&nbsp;Trigger&nbsp;Guide
@@ -62,7 +62,7 @@ Account-level triggers can be implemented using one of the following methods:
 Create the automation - define its logic, triggers, conditions, and notifications, and configure the accompanying pre-installed component.
 Install the pre-installed component (with the app) only on production and test sites to ensure a controlled, correct rollout.
 
-<p align="center">
+<p align="left">
   <a href="https://github.com/Pickman123/Private-Projects/blob/main/Wix%20Official%20Notifications%20(internal%20docs)/Account-Level%20Automation%20Implementation/Preinstalleds/PreInstalled%20Account%20Level%20Automation.md"
      style="display:inline-block;padding:8px 16px;background:#0063d1;color:#ffffff;font-weight:600;text-decoration:none;border-radius:4px;">
     ➡️ Create&nbsp;Pre-Installed&nbsp;Automation
@@ -76,7 +76,7 @@ Install the pre-installed component (with the app) only on production and test s
 - Thoroughly test the preinstalled component to ensure your automation works end-to-end before release.
 - Ensure the relevant feature toggle (`ft-...`, provided separately) is enabled for test environment.
 
-  <p align="center">
+  <p align="left">
   <a href=https://github.com/Pickman123/Private-Projects/blob/main/Wix%20Official%20Notifications%20(internal%20docs)/Account-Level%20Automation%20Implementation/Triggers/Test%20Trigger.md
      style="display:inline-block;padding:8px 16px;background:#0063d1;color:#ffffff;font-weight:600;text-decoration:none;border-radius:4px;">
     ➡️ Test&nbsp;preinstalled&nbsp;Automation&nbsp;Guide

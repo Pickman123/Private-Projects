@@ -92,8 +92,8 @@ Your event will appear in Dev Center as a "not publish" trigger, ready for confi
 2. **Mark as Account-Level Trigger:**  
    Edit the trigger and mark it as "account-level eligible" if it should be used for account-level automations.
 
-   ![Edit Trigger](https://github.com/Pickman123/Private-Projects/blob/main/Edit%20Trigger.png?raw=true)
-   ![Account level trigger](https://github.com/Pickman123/Private-Projects/blob/main/Select%20account%20level%20trigger.png?raw=true)
+   ![Edit Trigger](https://github.com/Pickman123/Private-Projects/blob/main/docs%20images/Edit%20Trigger.png?raw=true)
+   ![Account level trigger](https://github.com/Pickman123/Private-Projects/blob/main/docs%20images/Select%20account%20level%20trigger.png?raw=true)
 
 3. **Mark User ID in Aspect (if needed):**  
    If the notification audience is based on the userID from the aspect, ensure it is marked for correct usage at runtime.
@@ -140,7 +140,7 @@ Auto-converted triggers are based on your proto file, but some aspects can be ma
 
 **After completing these steps, your trigger will be in draft mode and ready for testing.**
 
-![Draft trigger ready](https://github.com/Pickman123/Private-Projects/blob/main/Draft%20Trigger%20created%20and%20ready%20for%20testing.png?raw=true)
+![Draft trigger ready](https://github.com/Pickman123/Private-Projects/blob/main/docs%20images/Draft%20Trigger%20created%20and%20ready%20for%20testing.png?raw=true)
 
 ---
 

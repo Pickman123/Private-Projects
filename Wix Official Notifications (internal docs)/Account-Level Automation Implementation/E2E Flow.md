@@ -27,7 +27,7 @@ Account-level triggers can be implemented using one of the following methods:
 ## 3. Trigger Testing Flow
 
 - Thoroughly test account-level triggers to ensure your automation works end-to-end before release.
-- Make sure to turn ON the dedicated test feature toggle - (spec: xxx) for enabling the testing process  
+- Ensure the relevant feature toggle (`ft-...`, provided separately) is enabled for test environment.  
 
 ### Step 3.1: Install Your App on the Test Site
 
@@ -47,7 +47,7 @@ Account-level triggers can be implemented using one of the following methods:
 ### Step 3.3: Manually Run the Trigger
 
 - **For Auto-Converted Triggers:**  
-  Ensure the relevant feature toggle (`ft-...`, provided separately) is enabled for your account or test environment.
+  Ensure the relevant feature toggle (`ft-...`, provided separately) is enabled for test environment.  
 - **For Quix-Based Triggers:**  
   In the Quix Job configuration, select the "testing" configuration for your automation action.
 
@@ -71,3 +71,31 @@ For account-level automations, the pre-installed component (along with the app) 
 
 For full implementation details, see:  
 [Account-Level Preinstalled Automation Implementation Details](./Preinstalleds/PreInstalled%20Automation.md)
+
+
+
+## 4. Test preinstalled in the dedicated site
+
+Thoroughly test the preinstalled component to ensure your automation works end-to-end before release.
+
+Ensure the relevant feature toggle (`ft-...`, provided separately) is enabled for test environment.   
+
+### 6.1: Install Your App on the Test Site
+
+- Use the **"Test Your App"** feature in Dev Center to install your app on the dedicated test site:  
+  *msid:* `eb2f2d49-b70f-4b9d-9055-4cc9793aca5e`
+  
+  ![Install App for test](../../images/Install%20app%20for%20test.png?raw=true)
+
+
+  *Notes:*
+  - If you are not a collaborator, contact [#Automations-platform](https://wix.slack.com/archives/C7F2DUC1Y).
+  - If the app is already installed, you do not need to install it again.
+
+### 6.2: Find your preinstalled in the automations page
+
+Find your preinstalled automation under "installed for you" tab in the table
+
+### 6.2: Run the automation 
+
+

@@ -34,7 +34,7 @@
 *(Follow the guide appropriate for your automation level)*
 
 - **[Account-Level Implementation Guide →](./Account-Level%20Automation%20Implementation/E2E%20Flow.md)**
-- **[Site-Level Implementation Guide →](./Account-Level%20Automation%20Implementation/E2E%20Flow.md)**
+- **[Site-Level Implementation Guide →](https://docs.google.com/presentation/d/10Rp0htgx-LUgxAeOKo5uUPkQ_WrZGBFA4Jg6N2uIkVQ/edit?slide=id.g277542d2b7b_0_338#slide=id.g277542d2b7b_0_338)**
 
 Each guide covers:
 - Trigger implementation options (auto-converter, RPC, Quix job)

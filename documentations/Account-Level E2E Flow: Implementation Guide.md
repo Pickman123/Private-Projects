@@ -1,4 +1,4 @@
-# Account-Level Automations: Implementation Guide
+# Account-Level E2E Flow: Implementation Guide
 
 This guide walks you through implementing account-level automations, including trigger setup, automation creation, testing, and publishing.
 

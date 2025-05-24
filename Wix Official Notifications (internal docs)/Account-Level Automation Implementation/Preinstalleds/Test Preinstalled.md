@@ -7,8 +7,6 @@
 
 ### 1️⃣ Install Your App on the Test Site
 
----
-
 - Use the **"Test Your App"** feature in Dev Center to install your app on the dedicated test site:  
   *msid:* `eb2f2d49-b70f-4b9d-9055-4cc9793aca5e`
   
@@ -26,7 +24,7 @@ Find your preinstalled automation under "installed for you" tab in the table
 
 ---
 
-### 3️⃣ Manually Run the Preinstalled
+### 3️⃣ Manually Run the Preinstalled and make sure it works as expected
 
 - **For Auto-Converted Triggers:**  
   Initiate the trigger manually and verify that it runs successfully. 
@@ -34,5 +32,12 @@ Find your preinstalled automation under "installed for you" tab in the table
  In the Quix Job settings, choose the Testing configuration for your automation action, then initiate it from there.
 
 ---
+
+<div align="right">
+
+➡️ [Continue to: Rollout Process → ](https://github.com/Pickman123/Private-Projects/blob/main/Wix%20Official%20Notifications%20(internal%20docs)/Account-Level%20Automation%20Implementation/E2E%20Flow.md
+)
+</div>
+
 
 

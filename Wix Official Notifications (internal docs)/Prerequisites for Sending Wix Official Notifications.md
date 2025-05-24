@@ -30,7 +30,7 @@
 
 ---
 
-# 🚀 Implementation  
+## 🚀 Implementation  
 *(Follow the guide appropriate for your automation level)*
 
 - **[Account-Level Implementation Guide →](https://github.com/Pickman123/Private-Projects/blob/main/Wix%20Official%20Notifications%20(internal%20docs)/Account-Level%20Automation%20Implementation/E2E%20Flow.md)**

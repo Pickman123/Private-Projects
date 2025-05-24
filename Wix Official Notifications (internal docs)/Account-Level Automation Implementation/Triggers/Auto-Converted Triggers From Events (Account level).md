@@ -1,4 +1,4 @@
-# Auto-Converted Triggers From Events (Account level)
+# Auto-Converted Trigger From Event (Account level)
 
 Auto-converted triggers provide a streamlined and efficient way to create and manage automation triggers in Wix, leveraging existing events defined in your app.
 
@@ -145,6 +145,6 @@ Auto-converted triggers are based on your proto file, but some aspects can be ma
 
 <div align="right">
 
-➡️ [Continue to: Test Your Trigger →](./TEST_YOUR_TRIGGER.md)
+➡️ [Continue to: Test Your Trigger →](https://github.com/Pickman123/Private-Projects/blob/main/Wix%20Official%20Notifications%20(internal%20docs)/Account-Level%20Automation%20Implementation/Triggers/Test%20Trigger.md#test-your-account-level-trigger)
 
 </div>

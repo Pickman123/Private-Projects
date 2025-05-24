@@ -41,7 +41,7 @@
 - **[Site-Level Implementation Guide →]()**
 
 Each guide covers:
-- Trigger implementation options (Kafka, RPC, Quix job)
+- Trigger implementation options (auto-converter, RPC, Quix job)
 - Automation creation and email design
 - Testing flow (including test site setup)
 - Publishing process

@@ -4,8 +4,6 @@
 ---
 
 ## 1. Ideation & Research  
-**Owners:** PM & Developer
-
 - Review the basics of Wix Automations: [Automation Introduction](https://dev.wix.com/docs/rest/business-management/automations/introduction)
 - Understand automation triggers: [Triggers Overview](https://dev.wix.com/docs/rest/business-management/automations/triggers/about-triggers)
 - Learn about pre-installed automation components: [About Pre-Installed Automations](https://dev.wix.com/docs/rest/business-management/automations/automations/pre-installed-automations/about-pre-installed-automations)
@@ -15,7 +13,6 @@
 ---
 
 ## 2. Application Setup  
-**Owner:** Developer
 
 1. Get familiar with the Dev Center environment and app management: [Dev Center Guide](https://dev.wix.com/docs/build-apps/get-started/templates/build-an-app-template-guide-for-wix-employees)
 2. Check if an approved or published application already exists for your use case.  
@@ -27,7 +24,6 @@
 ---
 
 ## 3. Event Identification  
-**Owner:** Developer
 
 - Determine if an existing event provides all the data required to trigger the automation.
 - If such an event exists, leverage it to streamline the implementation.

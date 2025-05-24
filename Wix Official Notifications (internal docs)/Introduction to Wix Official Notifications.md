@@ -55,19 +55,20 @@ This section explains how automations are implemented under the hood and highlig
 - This component is automatically installed on every site where the app is present.  
 - Site-level automations and the notifications they generate are triggered by site-specific events and are sent to the site owner or other collaborators.  
 - These automations run invisibly in the background and are not exposed or editable by users.
-
+- Audience is determined by the trigger payload (email fields or contact ID) or by site collaborators (e.g., the site owner).
 ### Account-Level Automation Logic
 
 - Account-level automations are defined in a pre-installed automation component under a Dev Center app.  
 - This app, along with its automation component, is installed only on a single production site and a dedicated test site.  
 - The production site is responsible for triggering all account-level automations and sending the corresponding notifications to users.
-
+- Audience can be based on the trigger payload—formatted email fields or the userID included in the event aspect.
 #### 🥊 Key Differences
 
 |                | Site-Level                           | Account-Level                        |
 |----------------|-------------------------------------|--------------------------------------|
 | **Scope**      | Every site with the app             | One production & one test site       |
 | **Triggers**   | Site-specific events                | Account-wide actions                 |
+| **Audience**   | trigger payload (formatted email fields or contact ID) or site collaborators | trigger payload—formatted email fields or the userID included in the event aspect |
 
 ---
 

@@ -64,7 +64,7 @@ Create the automation—define its logic, triggers, conditions, and email notifi
 - Install the pre-installed component (with the app) only on production and test sites to ensure a controlled, correct rollout.
 
 **Implementation Details**
-For complete instructions, see the full guide: [Account-Level Pre-Installed Automation Implementation Details](
+For complete instructions, see the full guide: [Account-Level Pre-Installed Automation Implementation Details](https://github.com/Pickman123/Private-Projects/blob/main/Wix%20Official%20Notifications%20(internal%20docs)/Account-Level%20Automation%20Implementation/Preinstalleds/PreInstalled%20Automation.md)
 
 
 ## 4. Test preinstalled in the dedicated site

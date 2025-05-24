@@ -42,7 +42,7 @@ Account-level triggers can be implemented using one of the following methods:
 - Use the **"Test Your App"** feature in Dev Center to install your app on the dedicated test site:  
   *msid:* `eb2f2d49-b70f-4b9d-9055-4cc9793aca5e`
   
-  ![Install App for test](../../images/Install%20app%20for%20test.png?raw=true)
+  ![Install App for test](https://github.com/Pickman123/Private-Projects/blob/main/docs%20images/Install%20app%20for%20test.png?raw=true)
 
   *Notes:*
   - If you are not a collaborator, contact [#Automations-platform](https://wix.slack.com/archives/C7F2DUC1Y).
@@ -61,7 +61,7 @@ Account-level triggers can be implemented using one of the following methods:
 
 ### 2.4: When satisfied, publish the trigger.
 
-  ![Publish Trigger Example](../../images/Publish%20account%20level%20emails.png?raw=true)
+  ![Publish Trigger Example](https://github.com/Pickman123/Private-Projects/blob/main/docs%20images/Publish%20account%20level%20emails.png?raw=true)
 
 ---
 
@@ -88,7 +88,7 @@ Ensure the relevant feature toggle (`ft-...`, provided separately) is enabled fo
 - Use the **"Test Your App"** feature in Dev Center to install your app on the dedicated test site:  
   *msid:* `eb2f2d49-b70f-4b9d-9055-4cc9793aca5e`
   
-  ![Install App for test](../../images/Install%20app%20for%20test.png?raw=true)
+  ![Install App for test](https://github.com/Pickman123/Private-Projects/blob/main/docs%20images/Install%20app%20for%20test.png?raw=true)
 
   *Notes:*
   - If you are not a collaborator, contact [#Automations-platform](https://wix.slack.com/archives/C7F2DUC1Y).

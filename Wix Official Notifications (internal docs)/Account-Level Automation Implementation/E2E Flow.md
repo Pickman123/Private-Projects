@@ -25,7 +25,7 @@ Account-level triggers can be implemented using one of the following methods:
 - **Auto-Converted Trigger from Event:**  
   Use a server event (Legacy or DE) containing all relevant account/user data.
   
-  <p align="center">
+  <p align="left">
   <a href=./Triggers/Auto-Converted%20Triggers%20From%20Events%20(Account%20level).md
      style="display:inline-block;padding:8px 16px;background:#0063d1;color:#ffffff;font-weight:600;text-decoration:none;border-radius:4px;">
     ➡️ Auto-Converted&nbsp;Triggers&nbsp;From&nbsp;Events
@@ -35,7 +35,7 @@ Account-level triggers can be implemented using one of the following methods:
 - **Quix Job Trigger:**  
   Trigger automations for multiple users/accounts based on rows in a Quix job.
   
-  <p align="center">
+  <p align="left">
   <a href=./Triggers/Creating%20Trigger%20From%20Quix%20Job.md
      style="display:inline-block;padding:8px 16px;background:#0063d1;color:#ffffff;font-weight:600;text-decoration:none;border-radius:4px;">
     ➡️ Creating&nbsp;Trigger&nbsp;From&nbsp;Quix&nbsp;Job

@@ -45,6 +45,8 @@ Design your Quix job to include all the data needed for your automation and noti
 - **Account-Level:**  
   - The job should include a `userId` or `email` column to identify the recipients.
 
+---
+
 ### 2️⃣ Connect the Job to Your Trigger
 
 In the Quix Job UI, select:  

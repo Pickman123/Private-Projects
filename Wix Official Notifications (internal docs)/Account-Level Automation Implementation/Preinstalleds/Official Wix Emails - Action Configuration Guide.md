@@ -2,7 +2,7 @@
 
 ## Introduction
 
-This guide explains how to configure and customize email notifications using the "Send an Email" action, sent from Wix as the sender and brand (official emails), as part of the preinstalled automation component creation.
+This guide explains how to configure and customize email notifications using the "Send an Email" action, sent from Wix as the sender and brand (official emails), as part of the preinsatlled automation component creation.
 
 ---
 
@@ -15,17 +15,60 @@ This process applies equally to both site-level and account-level automations.
 
 ## Step-by-Step Configuration
 
-### 1. Start with Preinstalled Automation Component Guide - [link here](./PreInstalled%20Automation.md)
+### 1. Start with Preinstalled Automation Component Guide - [link here](https://github.com/Pickman123/Private-Projects/blob/main/documentations/Account-Level%20Preinstalled%20Automation%20Component%20implementations%20guide.md#preinstalled-automation-component-implemetations-guide-account-level)
+
+Before configuring emails, you should start creating an automation ensure you have followed the guide for creating preinstalled automation components.
+
+---
 
 ### 2. Select the “Send an Email” Action
 
+In your automation flow, add the **Send an Email** action.
+
+_Image: Add "Send an Email" action_
+
+---
+
 ### 3. Ensure the Widget Is Set to Wix official emails State
+
+Verify that the "Send an Email" action widget is in Wix official emails State. The interface will look different than the standard interface.
+
+_Image: Wix official emails State action interface_
+
+> **Important:** If the interface does not match the example, re-enter the automation builder before proceeding.
+
+---
 
 ### 4. Define the User Type
 
+Choose the audience for this email—**Wix Studio** or **Classic** users.  
+This must match your condition logic in the automation.
+
+- Select the user type in the action’s settings.
+- **Note:** Changing the audience from Classic to Studio (or vice versa) resets the action to its default state (template, recipients, etc).
+
+_Image: Setting panel for user type_
+
+---
+
 ### 5. Sender Details
 
+Sender details are read-only and automatically set based on the audience chosen.  
+No changes are required here.
+
+---
+
 ### 6. Select and Design the Email Template
+
+- Click **Choose Template** and pick the relevant template for Studio or Classic.
+- Templates have pre-defined themes; any new elements you add will be styled accordingly.
+
+‼️ **Must read:**  
+Refer to the [Email Design Guidelines on Figma](#) for best practices and requirements.
+
+_Image: Entry point to email template selection_
+
+---
 
 ### 7. Email Template Creation
 
@@ -114,8 +157,7 @@ _Image: Preview and test entry points_
 
 ### 10. Set Recipients
 
-This setting is saved in the pre-installed configuration and determines the default recipient.
-
+- This setting is saved in the pre-installed configuration and determines the default recipient.
 - Choose “Emails from trigger” for recipient options:
   1. If sending the user ID as the recipient, select "primary email."
   2. Any email-format field in the trigger schema can also be selected.
@@ -126,7 +168,7 @@ _Image: Set recipients panel_
 
 ### 11. Repeat for Classic or Studio (as needed)
 
-Complete the setup for both Classic and Studio if your automation supports both audiences.
+- Complete the setup for both Classic and Studio if your automation supports both audiences.
 
 _Image: Step completion for Studio/Classic_
 
@@ -134,6 +176,6 @@ _Image: Step completion for Studio/Classic_
 
 ## Next Steps
 
-Continue to the [Preinstalled Automation Component creation guide](./PreInstalled%20Automation.md) to complete setup.
+Continue to the [Preinstalled Automation Component creation guide](https://github.com/Pickman123/Private-Projects/blob/main/documentations/Account-Level%20Preinstalled%20Automation%20Component%20implementations%20guide.md#preinstalled-automation-component-implemetations-guide-account-level) to complete setup.
 
 ---

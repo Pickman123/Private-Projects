@@ -42,22 +42,16 @@ Account-level triggers can be implemented using one of the following methods:
 
 ### Step 3.2: Create an Automation with Your Trigger
 
-- On the test site, create a new automation using your account-level trigger and configure the desired actions (e.g., notifications, emails).
+- On the test site, create a new automation with your account-level trigger—any automation you prefer—and verify that it runs successfully.
 
 ### Step 3.3: Manually Run the Trigger
 
 - **For Auto-Converted Triggers:**  
-  Ensure the relevant feature toggle (`ft-...`, provided separately) is enabled for test environment.  
+  Initiate the trigger manually and verify that it runs successfully. 
 - **For Quix-Based Triggers:**  
-  In the Quix Job configuration, select the "testing" configuration for your automation action.
+ In the Quix Job settings, choose the Testing configuration for your automation action, then initiate it from there.
 
----
 
-### Step 3.4: Review and Debug Automation Results
-
-- Monitor the automation execution results on the test site.
-- Check that notifications are sent to the correct addresses and that the payload data is accurate.
-- If the automation fails or produces unexpected results, revisit your trigger schema, make sure the FT is indeed ON, or Quix job setup and test again.
 
   ![Publish Trigger Example](../../images/Publish%20account%20level%20emails.png?raw=true)
 

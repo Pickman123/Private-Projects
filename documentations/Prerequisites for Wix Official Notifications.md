@@ -1,4 +1,4 @@
-# Prerequisites  
+# Prerequisites for Wix Official Notifications
 *(For both Site-Level and Account-Level Automations)*
 
 ---

@@ -68,3 +68,9 @@ This section explains how automations are implemented under the hood and highlig
   - Both automation types run in the background and are not exposed to users, but account-level automations centralize their logic and notification sending.
 
 ---
+<div align="right">
+
+➡️ [Continue to: Implementation Prerequisites → ](https://github.com/Pickman123/Private-Projects/blob/main/documentations/Prerequisites.md)
+
+
+</div>

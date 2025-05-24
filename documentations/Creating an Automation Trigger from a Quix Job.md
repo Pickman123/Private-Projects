@@ -52,7 +52,7 @@ Design your Quix job to include all the data needed for your automation and noti
 - For account-level jobs, specify if the trigger is for testing or production.
 - Enter the relevant **appId** and **trigger key** (from Dev Center).
 
-![Quix Job UI Example](https://github.com/Pickman123/Private-Projects/blob/main/Quix%20image.png?raw=true)
+![Quix Job UI Example](https://github.com/Pickman123/Private-Projects/blob/main/docs%20images/Quix%20image.png?raw=true)
 
 ### 3. Execution
 

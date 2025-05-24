@@ -1,4 +1,4 @@
-# Introduction to Wix Official Notifications
+# 🎉 Welcome to Wix Official Notifications!
 
 Welcome to the documentation for the **Wix Automations solution for notifications sent from Wix**.  
 This guide is designed for Wix employees and provides a comprehensive overview of creating official notifications where Wix is both the sender and the brand.

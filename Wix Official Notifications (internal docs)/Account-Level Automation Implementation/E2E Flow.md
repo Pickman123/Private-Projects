@@ -26,7 +26,8 @@ Account-level triggers can be implemented using one of the following methods:
 
 ## 3. Trigger Testing Flow
 
-Thoroughly test account-level triggers to ensure your automation works end-to-end before release.
+- Thoroughly test account-level triggers to ensure your automation works end-to-end before release.
+- Make sure to turn ON the dedicated test feature toggle - (spec: xxx) for enabling the testing process  
 
 ### Step 3.1: Install Your App on the Test Site
 

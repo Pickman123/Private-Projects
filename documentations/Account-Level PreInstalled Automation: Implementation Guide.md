@@ -1,4 +1,4 @@
-# Preinstalled Automation Component implemetations guide (Account level) 
+# Account-Level PreInstalled Automation: Implementation Guide
 
 ## Introduction
 

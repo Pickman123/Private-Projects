@@ -89,13 +89,13 @@ Your event will appear in Dev Center as a "not publish" trigger, ready for confi
 1. **Locate the Trigger:**  
    In Dev Center, find the desired event trigger by topic and slug.
 
-2. **Mark as Account-Level Trigger (if needed):**  
+2. **Mark as Account-Level Trigger:**  
    Edit the trigger and mark it as "account-level eligible" if it should be used for account-level automations.
 
    ![Edit Trigger](https://github.com/Pickman123/Private-Projects/blob/main/Edit%20Trigger.png?raw=true)
    ![Account level trigger](https://github.com/Pickman123/Private-Projects/blob/main/Select%20account%20level%20trigger.png?raw=true)
 
-3. **Mark User ID in Aspect (if relevant):**  
+3. **Mark User ID in Aspect (if needed):**  
    If the notification audience is based on the userID from the aspect, ensure it is marked for correct usage at runtime.
 
 4. **Enrich Trigger Functionality (if needed):**

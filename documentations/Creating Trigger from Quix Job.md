@@ -1,4 +1,4 @@
-# Creating an Automation Trigger from a Quix Job
+# Creating Trigger from Quix Job
 
 Automations can be initiated directly from Quix jobs. These triggers can operate at either the **site level** or **account level**, depending on your use case.
 

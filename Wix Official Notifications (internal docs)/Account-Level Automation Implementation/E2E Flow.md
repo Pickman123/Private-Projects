@@ -6,7 +6,7 @@ This guide walks you through implementing account-level automations, including t
 
 ## 1. Overview
 
-**Account-level automations** are used for sending notifications to users or accounts, regardless of individual site context.
+**Account-level automations** are used for sending notifications to users or accounts, regardless of individual site context. for more information read the [Introduction](
 
 ---
 

@@ -55,9 +55,6 @@ This is the core automation configuration that defines the logic, structure, and
 7. Activate the automation in the builder.
 
 ---
-## 2. Improt base automation configuration into the preinstalled components
-
-
 
 ## 2. Set Up the Rollout Spec
 

@@ -1,8 +1,8 @@
 # Test Your Account Level Trigger
-Thoroughly test account-level triggers to ensure your automation works end-to-end before release.
-Ensure the relevant feature toggle (`ft-...`, provided separately) is enabled for test environment.
+- Thoroughly test account-level triggers to ensure your automation works end-to-end before release.
+- Ensure the relevant feature toggle (`ft-...`, provided separately) is enabled for test environment.
 
-## Install Your App on the Test Site
+## 1️⃣ Install Your App on the Test Site
 
 - Use the **"Test Your App"** feature in Dev Center to install your app on the dedicated test site:  
   *msid:* `eb2f2d49-b70f-4b9d-9055-4cc9793aca5e`
@@ -13,17 +13,17 @@ Ensure the relevant feature toggle (`ft-...`, provided separately) is enabled fo
   - If you are not a collaborator, contact [#Automations-platform](https://wix.slack.com/archives/C7F2DUC1Y).
   - If the app is already installed, you do not need to install it again.
 
-### Create an Automation with Your Trigger
+### 2️⃣ Create an Automation with Your Trigger
 
 - On the test site, create a new automation with your account-level trigger—any automation you prefer—and verify that it runs successfully.
 
-### Manually Run the Trigger
+### 3️⃣ Manually Run the Trigger
 
 - **For Auto-Converted Triggers:**  
   Initiate the trigger manually and verify that it runs successfully. 
 - **For Quix-Based Triggers:**  
  In the Quix Job settings, choose the Testing configuration for your automation action, then initiate it from there.
 
-### When satisfied, publish the trigger.
+### 4️⃣ When satisfied, publish the trigger.
 
   ![Publish Trigger Example](https://github.com/Pickman123/Private-Projects/blob/main/docs%20images/Publish%20account%20level%20emails.png?raw=true)

@@ -3,7 +3,11 @@
 - Thoroughly test the preinstalled component to ensure your automation works end-to-end before release.
 - Ensure the relevant feature toggle (`ft-...`, provided separately) is enabled for test environment.
 
+---
+
 ### 1️⃣ Install Your App on the Test Site
+
+---
 
 - Use the **"Test Your App"** feature in Dev Center to install your app on the dedicated test site:  
   *msid:* `eb2f2d49-b70f-4b9d-9055-4cc9793aca5e`
@@ -14,9 +18,13 @@
   - If you are not a collaborator, contact [#Automations-platform](https://wix.slack.com/archives/C7F2DUC1Y).
   - If the app is already installed, you do not need to install it again.
 
+---
+
 ### 2️⃣  Find your preinstalled in the automations page
 
 Find your preinstalled automation under "installed for you" tab in the table
+
+---
 
 ### 3️⃣ Manually Run the Preinstalled
 
@@ -26,3 +34,5 @@ Find your preinstalled automation under "installed for you" tab in the table
  In the Quix Job settings, choose the Testing configuration for your automation action, then initiate it from there.
 
 ---
+
+

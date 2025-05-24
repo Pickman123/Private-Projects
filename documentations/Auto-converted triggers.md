@@ -117,7 +117,6 @@ Auto-converted triggers are based on your proto file, but some aspects can be ma
 |-----------------|-------------------------------------|
 | Type            | Data type of the field              |
 | Format          | Available formats for string fields |
-| MONEY           | Represents a monetary value         |
 | oneOf (enum)    | Field with predefined values        |
 
 ### Editable in Dev Center

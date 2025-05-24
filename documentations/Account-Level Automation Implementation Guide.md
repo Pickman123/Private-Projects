@@ -28,7 +28,7 @@ Account-level triggers can be implemented using one of the following methods:
 
 Thoroughly test account-level triggers to ensure your automation works end-to-end before release.
 
-### Step 1: Install Your App on the Test Site
+### Step 3.1: Install Your App on the Test Site
 
 - Use the **"Test Your App"** feature in Dev Center to install your app on the dedicated test site:  
   **msid:** `eb2f2d49-b70f-4b9d-9055-4cc9793aca5e`
@@ -39,11 +39,11 @@ Thoroughly test account-level triggers to ensure your automation works end-to-en
   - If you are not a collaborator, contact [#Automations-platform](https://wix.slack.com/archives/C7F2DUC1Y).
   - If the app is already installed, you do not need to install it again.
 
-### Step 2: Create an Automation with Your Trigger
+### Step 3.2: Create an Automation with Your Trigger
 
 - On the test site, create a new automation using your account-level trigger and configure the desired actions (e.g., notifications, emails).
 
-### Step 3: Manually Run the Trigger
+### Step 3.3: Manually Run the Trigger
 
 - **For Auto-Converted Triggers:**  
   Ensure the relevant feature toggle (`ft-...`, provided separately) is enabled for your account or test environment.  
@@ -53,7 +53,7 @@ Thoroughly test account-level triggers to ensure your automation works end-to-en
 
 ---
 
-### Step 4: Review and Debug Automation Results
+### Step 3.4: Review and Debug Automation Results
 
 - Monitor the automation execution results on the test site.
 - Check that notifications are sent to the correct adresses and that the payload data is accurate.
@@ -64,4 +64,11 @@ Thoroughly test account-level triggers to ensure your automation works end-to-en
 
 ---
 
-Ready for the next section! Let me know which part you'd like to continue with.
+## 4. Create Preinstalled Automation Component
+
+This step covers the creation of the automation itself, including its logic, trigger, conditions, and email notifications, as well as the setup of the pre-installed component.
+
+For account-level automations, the pre-installed component (along with the app) must be installed only on the production and test sites. This ensures correct deployment and controlled rollout.
+
+For full implementation details, see:  
+[Account-Level Preinstalled Automation Implementation Details →](./ACCOUNT_LEVEL_PREINSTALLED_IMPLEMENTATION.md)

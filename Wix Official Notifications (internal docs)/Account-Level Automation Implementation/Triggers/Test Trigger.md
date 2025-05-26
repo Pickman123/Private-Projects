@@ -1,6 +1,6 @@
 # Test Your Account Level Trigger
 - Thoroughly test account-level triggers to ensure your automation works end-to-end before release.
-- Ensure the relevant feature toggle (`specs.automations.AccountLevelAutomationsTestMode`, provided separately) is enabled for test environment.
+- Ensure the relevant feature toggle (`specs.automations.AccountLevelAutomationsTestMode`) is enabled for test environment.
 
 ---
 
@@ -23,12 +23,16 @@
 
 ---
 
-## 3️⃣ Manually Run the Trigger
+## 3️⃣ Run the Trigger with spec ON (`specs.automations.AccountLevelAutomationsTestMode`)
 
-- **For Auto-Converted Triggers:**  
+**Manually**
+- *For Auto-Converted Triggers:*  
   Initiate the trigger manually and verify that it runs successfully. 
-- **For Quix-Based Triggers:**  
+- *For Quix-Based Triggers:*  
  In the Quix Job settings, choose the Testing configuration for your automation action, then initiate it from there.
+
+**Fire console**
+- Make sure to add the expirement before firing
 
 ---
 

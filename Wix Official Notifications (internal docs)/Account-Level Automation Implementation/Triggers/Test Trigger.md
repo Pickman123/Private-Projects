@@ -1,6 +1,6 @@
 # Test Your Account Level Trigger
 - Thoroughly test account-level triggers to ensure your automation works end-to-end before release.
-- Ensure the relevant feature toggle (`ft-...`, provided separately) is enabled for test environment.
+- Ensure the relevant feature toggle (`ft-specs.automations.AccountLevelAutomationsTestMode`, provided separately) is enabled for test environment.
 
 ---
 

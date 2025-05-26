@@ -47,7 +47,7 @@ Account-level triggers can be implemented using one of the following methods:
 ## 2️⃣ Test trigger
 
 - Thoroughly test account-level triggers to ensure your automation works end-to-end before release.
-- Ensure the relevant feature toggle (`ft-...`, provided separately) is enabled for test environment.
+- Ensure the relevant feature toggle (`specs.automations.AccountLevelAutomationsTestMode`, provided separately) is enabled for test environment.
    
 <p align="left">
   <a href=https://github.com/Pickman123/Private-Projects/blob/main/Wix%20Official%20Notifications%20(internal%20docs)/Account-Level%20Automation%20Implementation/Triggers/Test%20Trigger.md

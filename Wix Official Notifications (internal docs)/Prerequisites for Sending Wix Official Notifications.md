@@ -33,7 +33,8 @@
 ## 🚀 Implementation  
 *(Follow the guide appropriate for your automation level)*
 
-- **[Account-Level Implementation Guide →](https://github.com/Pickman123/Private-Projects/blob/main/Wix%20Official%20Notifications%20(internal%20docs)/Account-Level%20Automation%20Implementation/E2E%20Flow.md)**
+- **[Account-Level Implementation Guide →](./Account-Level Automation Implementation
+/E2E Flow.md)**
 - **[Site-Level Implementation Guide →](https://docs.google.com/presentation/d/10Rp0htgx-LUgxAeOKo5uUPkQ_WrZGBFA4Jg6N2uIkVQ/edit?slide=id.g277542d2b7b_0_338#slide=id.g277542d2b7b_0_338)**
 
 Each guide covers:

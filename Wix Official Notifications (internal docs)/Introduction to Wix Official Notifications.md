@@ -62,14 +62,16 @@ This section explains how automations are implemented under the hood and highlig
 - This app, along with its automation component, is installed only on a single production site and a dedicated test site.  
 - The production site is responsible for triggering all account-level automations and sending the corresponding notifications to users.
 - Audience can be based on the trigger payload—formatted email fields or the userID included in the event aspect.
+
 #### 🥊 Key Differences
 
-|                | Site-Level                           | Account-Level                        |
-|----------------|-------------------------------------|--------------------------------------|
-| **Scope**      | Every site with the app             | One production & one test site       |
-| **Triggers**   | Site-specific events                | Account-wide actions                 |
-| **Audience**   | trigger payload (formatted email fields or contact ID) or site collaborators | trigger payload—formatted email fields or the userID included in the event aspect |
-
+| Feature                | **Site-Level Automations**                                                  | **Account-Level Automations**                                                  |
+|------------------------|-----------------------------------------------------------------------------|---------------------------------------------------------------------------------|
+| **Triggers**           | Site-specific events (e.g., form submitted, order placed)                   | Account-wide events (e.g., password updates, subscription changes)                |
+| **Audience**           | Site collaborators or based on trigger payload (email/contact ID)           | Based on trigger payload or event aspect (email fields or user ID in the event)        |
+| **Installation**       | Automatically added to each site with the app                               | The App should be Manually installed only on production + test site only         |
+| **Execution Context**  | Executes inside each site separately                                        | Executes from the central production site only                                 |
+| **User Visibility**    | Not visible or editable by site users                                       | Not visible or editable by users                                                   |
 ---
 
 <div align="right">
